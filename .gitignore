@@ -304,3 +304,14 @@ docs/_site/*
 
 # Ignore VIM tmp files
 *.swp
+
+# Unity.meta
+!package.json.meta
+!README.md.meta
+!LICENSE.txt.meta
+!CHANGELOG.md.meta
+!BreakingChanges.md.meta
+!acknowledgements.md.meta
+!Plugins.meta
+!Plugins/NSubstitute.dll.meta
+
